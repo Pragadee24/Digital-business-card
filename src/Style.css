@@ -1,0 +1,127 @@
+body{ 
+    margin: 0;
+    font-family: Inter,sans-serif;
+    background-color: rgb(35, 37, 44);
+}
+
+.TitleDiv{
+    text-align: center;
+}
+
+.container
+{
+    width: 294px;
+    height: 750px;
+    background-color: #1A1B21;
+    margin: 0 auto;
+    margin-top: 1.5%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+
+.ProfileImg{
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+
+.Name{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.Designation{
+    color: #F3BF99;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 0.1;
+}
+
+.mailID{
+    color: #F5F5F5;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.EmailBtn{
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    border:#F3BF99;
+    color: black;
+    padding: 7.5px 24px;
+    display: inline-block;
+    margin: 4px 8px;
+    cursor: pointer;
+}
+
+.LinkedInBtn{
+    border-radius: 5px;
+    background-color: #5093E2;
+    border:#F3BF99;
+    color: white;
+    padding: 7.5px 24px;
+    display: inline-block;
+    margin: 4px 8px;
+    cursor: pointer;
+}
+
+.About{
+    color: #F5F5F5;
+    font-size: 17.5px;
+    width: 225px;
+    margin: 0 auto;
+    line-height: 2;
+    margin-top: 7.5%;
+}
+
+.Description{
+    color: #DCDCDC;
+    font-size: 10px;
+    width: 225px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.Interests{
+    color: #F5F5F5;
+    font-size: 17.5px;
+    width: 225px;
+    margin: 0 auto;
+    line-height: 2;
+    margin-top: 2.5%;
+}
+
+.InterestsDescription{
+    color: #DCDCDC;
+    font-size: 10px;
+    width: 225px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.FooterDiv
+{
+    display: flex;
+    height:60px;
+    background-color: #161619;
+    margin-top: 10%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.twitter{
+    color: #ffffff;
+}
+
+.facebook{
+    color: #5093E2;
+}
+
+.instagram{
+    color: #ff08ef;
+}
+
+.github{
+    color: #ffffff;
+}
+
