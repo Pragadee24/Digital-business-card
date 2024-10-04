@@ -14,4 +14,4 @@ CSS3 / Styled Components: For component-based styling and ensuring a responsive,
 JavaScript (ES6+): For dynamic functionalities like QR code generation and form validation.
 FontAwesome: For sleek, customizable icons.
 
-![Business Card Preview](src/Images/Digital_Business_card.png)
+![Business Card Preview](src/Images/Digital_Business_Card.png)
